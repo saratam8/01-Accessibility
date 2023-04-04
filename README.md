@@ -8,3 +8,6 @@ N/A
 
 ## Deployment Link
 https://saratam8.github.io/01-Accessibility/
+
+## Deployed App Screenshot
+![My Deployed Website](assets/images/saratam8.github.io_01-Accessibility_.png)

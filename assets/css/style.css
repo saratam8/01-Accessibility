@@ -1,3 +1,4 @@
+/* universal selector to apply attributes to all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -53,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* This class sets the attributes for main image of website */
 .hero {
     height: 800px;
     width: 100%;
@@ -78,6 +80,7 @@ p {
     margin-left: 20px;
 }
 
+/* This class sets the attributes for the section to the right on website, containing Lead Generation, Brand Awareness and Cost Management */
 .benefits {
     margin-right: 20px;
     padding: 20px;
